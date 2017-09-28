@@ -11,6 +11,8 @@
     "url": "git+https://github.com/Iwouldliketobeapig/css-properties-order-team.git"
   },
   "keywords": [
+    "stylelint",
+    "stylelint-order",
     "css",
     "properties"
   ],
@@ -22,6 +24,8 @@
   "homepage": "https://github.com/Iwouldliketobeapig/css-properties-order-team#readme",
   "devDependencies": {
     "husky": "^0.14.3",
+    "stylelint": "^8.1.1",
+    "stylelint-order": "^0.7.0",
     "validate-commit-msg": "^2.14.0"
   }
 }
