@@ -1,2 +1,2 @@
 * npm i
-* style test/error.css
+* stylelint test/error.css
