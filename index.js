@@ -17,6 +17,18 @@ module.exports = {
         ]
       },
     
+      {
+        "order": "flexible",
+        "properties": [
+          "order",
+          "flex-grow",
+          "flex-shrink",
+          "flex-basis",
+          "flex",
+          "align-self"
+        ]
+      },
+
       "z-index",
     
       {
@@ -116,6 +128,18 @@ module.exports = {
           "overflow-x",
           "overflow-y",
           "overflow-style",
+        ]
+      },
+
+      {
+        "order": "flexible",
+        "properties": [
+          "flex-direction",
+          "flex-wrap",
+          "flex-flow",
+          "justify-content",
+          "align-items",
+          "align-content"
         ]
       },
 
