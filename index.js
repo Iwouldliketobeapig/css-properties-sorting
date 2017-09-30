@@ -30,16 +30,7 @@ module.exports = {
           "max-height"
         ]
       },
-    
-      {
-        "order": "flexible",
-        "properties": [
-          "overflow",
-          "overflow-x",
-          "overflow-y",
-          "overflow-style",
-        ]
-      },
+  
 
       "box-sizing",
     
@@ -117,9 +108,17 @@ module.exports = {
           "outline-offset"
         ]
       },
-    
-      "box-shadow",
-    
+      
+      {
+        "order": "flexible",
+        "properties": [
+          "overflow",
+          "overflow-x",
+          "overflow-y",
+          "overflow-style",
+        ]
+      },
+
       {
         "order": "flexible",
         "properties": [
@@ -206,11 +205,12 @@ module.exports = {
           "background-repeat",
         ]
       },
-    
+      
       "opacity",
       "cursor",
       "content",
       "quotes",
+      "box-shadow",
     
       {
         "order": "flexible",
