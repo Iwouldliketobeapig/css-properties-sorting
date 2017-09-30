@@ -40,6 +40,8 @@ module.exports = {
           "overflow-style",
         ]
       },
+
+      "box-sizing",
     
       {
         "order": "flexible",
@@ -219,9 +221,7 @@ module.exports = {
           "transition-timing-function",
           "transition-delay"
         ]
-      },
-    
-      "box-sizing"
+      }
     ]
   }
 }
