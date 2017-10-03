@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Iwouldliketobeapig/css-properties-sorting/issues"
   },
-  "homepage": "https://github.com/Iwouldliketobeapig/css-properties-sorting#readme",
+  "homepage": "https://github.com/Iwouldliketobeapig/css-properties-sorting#README",
   "devDependencies": {
     "husky": "^0.14.3",
     "stylelint": "^8.1.1",
