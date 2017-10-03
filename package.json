@@ -1,27 +1,27 @@
 {
-  "name": "css-properties-order-team",
+  "name": "css-properties-sorting",
   "version": "1.0.0",
-  "description": "css properties order for team development",
+  "description": "css properties order for sorting development",
   "main": "index.js",
   "scripts": {
     "commitmsg": "validate-commit-msg"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Iwouldliketobeapig/css-properties-order-team.git"
+    "url": "git@github.com:Iwouldliketobeapig/css-properties-sorting.git"
   },
   "keywords": [
     "stylelint",
     "stylelint-order",
-    "css-sort",
-    "properties"
+    "css-properties-sorting",
+    "sorting"
   ],
   "author": "dutao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Iwouldliketobeapig/css-properties-order-team/issues"
+    "url": "https://github.com/Iwouldliketobeapig/css-properties-sorting/issues"
   },
-  "homepage": "https://github.com/Iwouldliketobeapig/css-properties-order-team#readme",
+  "homepage": "https://github.com/Iwouldliketobeapig/css-properties-sorting#readme",
   "devDependencies": {
     "husky": "^0.14.3",
     "stylelint": "^8.1.1",
