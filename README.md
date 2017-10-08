@@ -33,6 +33,8 @@ in .stylelintrc:
 }
 ```
 
+**you can use it with webpack or others** 
+
 ## Sorting rules
 
 1. display & flow

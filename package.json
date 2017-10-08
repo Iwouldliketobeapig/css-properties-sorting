@@ -1,6 +1,6 @@
 {
   "name": "css-properties-sorting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css properties order for sorting development",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "keywords": [
     "stylelint",
     "stylelint-order",
-    "css-properties-sorting",
-    "sorting"
+    "stylelint-order-sorting",
+    "css-properties-sorting"
   ],
   "author": "dutao",
   "license": "ISC",
