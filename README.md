@@ -8,16 +8,16 @@ Frist, install stylelint
 npm install --save-dev stylelint
 ```
 
-Then, install stylelint-order and install stylelint-properties-sorting
+Then, install stylelint-order and install css-properties-sorting
 
 ```text
-npm install --save-dev stylelint-order stylelint-properties-sorting
+npm install --save-dev stylelint-order css-properties-sorting
 ```
 
 Or, you can one time
 
 ```text
-npm install --save-dev stylelint stylelint-order stylelint-properties-sorting
+npm install --save-dev stylelint stylelint-order css-properties-sorting
 ```
 
 ## Example
@@ -29,7 +29,7 @@ in .stylelintrc:
 	"plugins": [
 		"stylelint-order"
 	],
-	"extends": "stylelint-properties-sorting"
+	"extends": "css-properties-sorting"
 }
 ```
 
