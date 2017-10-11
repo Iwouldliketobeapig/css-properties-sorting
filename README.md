@@ -1,5 +1,9 @@
 # <center>css-properties-sort</center>
 
+[![NPM version](https://img.shields.io/npm/v/css-properties-sorting.svg)](https://www.npmjs.org/package/css-properties-sorting)
+[![NPM Downloads](https://img.shields.io/npm/dm/css-properties-sorting.svg)](https://www.npmjs.org/package/css-properties-sorting)
+[![Build Status](https://travis-ci.org/cahamilton/css-properties-sorting.svg?branch=master)](https://travis-ci.org/cahamilton/css-properties-sorting)
+
 ## Installation
 
 Frist, install stylelint
