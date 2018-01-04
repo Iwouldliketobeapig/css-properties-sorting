@@ -6,29 +6,17 @@
 
 ## Installation
 
-Frist, install stylelint
+First, You should have studied stylelint
 
-```text
-npm install --save-dev stylelint
-```
-
-Then, install stylelint-order and install css-properties-sorting
-
-```text
-npm install --save-dev stylelint-order css-properties-sorting
-```
-
-Or, you can one time
-
-```text
-npm install --save-dev stylelint stylelint-order css-properties-sorting
+```javascript
+npm install css-properties-sorting
 ```
 
 ## Example
 
 in .stylelintrc:
 
-```text
+```javascript
 {
 	"plugins": [
 		"stylelint-order"
@@ -36,6 +24,7 @@ in .stylelintrc:
 	"extends": "css-properties-sorting"
 }
 ```
+![](./test/imgs/test.png)
 
 **you can use it with webpack or others** 
 

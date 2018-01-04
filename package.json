@@ -1,6 +1,6 @@
 {
   "name": "css-properties-sorting",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "css properties order for sorting development",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "stylelint-order",
     "stylelint-order-sorting",
     "css-properties-sorting",
-    "css-sorting"
+    "css-sorting",
+    "verify",
+    "css verify"
   ],
   "author": "dutao",
   "license": "ISC",
@@ -25,8 +27,10 @@
   "homepage": "https://github.com/Iwouldliketobeapig/css-properties-sorting",
   "devDependencies": {
     "husky": "^0.14.3",
-    "stylelint": "^8.1.1",
-    "stylelint-order": "^0.7.0",
     "validate-commit-msg": "^2.14.0"
+  },
+  "dependencies": {
+    "stylelint": "^8.4.0",
+    "stylelint-order": "^0.7.0"
   }
 }
