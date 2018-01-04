@@ -45,3 +45,5 @@ in .stylelintrc:
 7. opacity/cursor/generated/content
 
 8. transition
+
+[Detailed rules（详细规则）](https://github.com/Iwouldliketobeapig/css-properties-sorting/blob/master/index.js)
