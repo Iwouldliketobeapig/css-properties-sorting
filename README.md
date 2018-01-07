@@ -6,7 +6,7 @@
 
 ## Installation
 
-First, You should have studied stylelint
+First, You should have studied [stylelint](https://github.com/stylelint/stylelint)
 
 ```javascript
 npm install css-properties-sorting
