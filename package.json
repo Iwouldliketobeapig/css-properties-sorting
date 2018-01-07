@@ -1,6 +1,6 @@
 {
   "name": "css-properties-sorting",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "css properties order for sorting development",
   "main": "index.js",
   "scripts": {
